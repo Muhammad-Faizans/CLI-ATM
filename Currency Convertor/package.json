@@ -1,0 +1,26 @@
+{
+  "name": "@mr-faizan/currency-converter",
+  "version": "3.0.0",
+  "description": "made for convert currency  into JPY,PKR,EUR,USD.OMR,INR,KWD",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  
+  "publishConfig": {
+    "access": "public"
+
+  },
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}

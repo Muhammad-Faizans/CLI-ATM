@@ -1,0 +1,20 @@
+{
+  "name": "s38ta-oops-app",
+  "version": "1.1.1",
+  "description": "This is cli based app using TypeScript,NodeJs and Inquirer.",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sania Tariq",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.3.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
